@@ -27,6 +27,9 @@
                 <li class="nav-item"><a href="index.php?program=kategoriak.php" class="nav-link">Kategoriák</a></li>
                 <li class="nav-item"><a href="index.php?program=zenek.php" class="nav-link">Zenék</a></li>
                 <li class="nav-item"><a href="index.php?program=kategoriakSzures.php" class="nav-link">Kategóriák rendezése</a></li>
+                <li class="nav-item"><a href="index.php?program=modositas.php" class="nav-link">Módosítás</a></li>
+                <li class="nav-item"><a href="index.php?program=ujkategoria.php" class="nav-link">Új kategória bevezetése</a></li>
+                <li class="nav-item"><a href="index.php?program=torol.php" class="nav-link">Zene törlés</a></li>
             </ul>
         </nav>
 
